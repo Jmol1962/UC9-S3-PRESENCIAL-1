@@ -1,0 +1,14 @@
+.galeria
+{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 230px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.galeria p
+{
+    margin-left: 15px ;
+}
